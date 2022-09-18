@@ -1,0 +1,14 @@
+C:\Users\denys\source\repos\CBS2.6\bin\Debug\netcoreapp3.1\CBS2.6.exe
+C:\Users\denys\source\repos\CBS2.6\bin\Debug\netcoreapp3.1\CBS2.6.deps.json
+C:\Users\denys\source\repos\CBS2.6\bin\Debug\netcoreapp3.1\CBS2.6.runtimeconfig.json
+C:\Users\denys\source\repos\CBS2.6\bin\Debug\netcoreapp3.1\CBS2.6.runtimeconfig.dev.json
+C:\Users\denys\source\repos\CBS2.6\bin\Debug\netcoreapp3.1\CBS2.6.dll
+C:\Users\denys\source\repos\CBS2.6\bin\Debug\netcoreapp3.1\CBS2.6.pdb
+C:\Users\denys\source\repos\CBS2.6\obj\Debug\netcoreapp3.1\CBS2.6.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\CBS2.6\obj\Debug\netcoreapp3.1\CBS2.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\CBS2.6\obj\Debug\netcoreapp3.1\CBS2.6.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\CBS2.6\obj\Debug\netcoreapp3.1\CBS2.6.AssemblyInfo.cs
+C:\Users\denys\source\repos\CBS2.6\obj\Debug\netcoreapp3.1\CBS2.6.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\CBS2.6\obj\Debug\netcoreapp3.1\CBS2.6.dll
+C:\Users\denys\source\repos\CBS2.6\obj\Debug\netcoreapp3.1\CBS2.6.pdb
+C:\Users\denys\source\repos\CBS2.6\obj\Debug\netcoreapp3.1\CBS2.6.genruntimeconfig.cache
